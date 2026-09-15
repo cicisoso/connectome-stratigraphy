@@ -18,6 +18,11 @@ authors:
 version: 1.0.0
 date-released: 2026-09-15
 license: MIT
+doi: 10.5281/zenodo.22760056
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22760056
+    description: Zenodo archive of this repository
 repository-code: https://github.com/cicisoso/connectome-stratigraphy
 keywords:
   - connectome

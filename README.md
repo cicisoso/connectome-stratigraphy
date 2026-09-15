@@ -2,6 +2,8 @@
 
 Code, per-neuron tables and figures for the manuscript *"Connectome stratigraphy: neuronal birth order is written in the geometry of a static wiring diagram"* (Liu, Zong, Chen and Xiong; School of Information Technology, Zhejiang Financial College; submitted to *Development* as a Research Report).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22760056.svg)](https://doi.org/10.5281/zenodo.22760056)
+
 We ask whether the order in which neurons were born can be read from the geometry of an adult connectome. In the MaleCNS v1.0 electron-microscopy connectome of a male *Drosophila* central nervous system we measure, for every neuron, the radial position and burial depth of its fibre within its lineage bundle and the position of its soma within its clone. These measures order the seven Kenyon cell classes by birth (youngest fibres in the core of the α/β lobes), recover the twin-spot MARCM birth orders of the anterodorsal and lateral projection neuron lineages, and separate embryonic-born from larval-born neurons in 155 hemilineage units of the nerve cord. Embryonic-born neurons make about four times more synapses than their larval-born lineage-mates and are 95% of the most connected neurons.
 
 ## Contents
@@ -46,7 +48,7 @@ Steps 1-4 take about 20 minutes on a laptop once the skeletons are downloaded; t
 
 ## Citation
 
-If you use these tables or code, please cite the paper (reference to be added on publication) and the Zenodo archive of this repository (DOI to be added), together with the MaleCNS connectome paper (Berg et al., 2026) and the lineage-tracing studies that provide the birth orders (Yu et al., 2010; Lin et al., 2012).
+If you use these tables or code, please cite the paper (reference to be added on publication) and the Zenodo archive of this repository (https://doi.org/10.5281/zenodo.22760056), together with the MaleCNS connectome paper (Berg et al., 2026) and the lineage-tracing studies that provide the birth orders (Yu et al., 2010; Lin et al., 2012).
 
 ## License
 
