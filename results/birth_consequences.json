@@ -1,0 +1,38 @@
+{
+ "pre": {
+  "n_hl": 45,
+  "median_log2_ratio_prim_over_sec": 1.806,
+  "frac_hl_prim_larger": 1.0,
+  "median_AUC": 0.935,
+  "wilcoxon_p": 5.7e-14
+ },
+ "post": {
+  "n_hl": 45,
+  "median_log2_ratio_prim_over_sec": 2.038,
+  "frac_hl_prim_larger": 1.0,
+  "median_AUC": 0.907,
+  "wilcoxon_p": 5.7e-14
+ },
+ "syn": {
+  "n_hl": 45,
+  "median_log2_ratio_prim_over_sec": 1.91,
+  "frac_hl_prim_larger": 1.0,
+  "median_AUC": 0.932,
+  "wilcoxon_p": 5.7e-14
+ },
+ "downstream": {
+  "n_hl": 45,
+  "median_log2_ratio_prim_over_sec": 1.938,
+  "frac_hl_prim_larger": 0.978,
+  "median_AUC": 0.922,
+  "wilcoxon_p": 1.1e-13
+ },
+ "top5pct_synweight": {
+  "frac_primary_in_top5": 0.945,
+  "frac_primary_overall": 0.223,
+  "n_top": 803
+ },
+ "dimorphism_frac_primary": {
+  "isomorphic": 0.241
+ }
+}

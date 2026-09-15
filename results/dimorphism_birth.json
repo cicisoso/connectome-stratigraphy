@@ -1,0 +1,28 @@
+{
+ "crosstab": {
+  "isomorphic": {
+   "false": 27230,
+   "true": 3354
+  },
+  "male-specific": {
+   "false": 1093,
+   "true": 67
+  },
+  "sexually dimorphic": {
+   "false": 349,
+   "true": 42
+  }
+ },
+ "frac_primary": {
+  "isomorphic": 0.11,
+  "male-specific": 0.058,
+  "sexually dimorphic": 0.107
+ },
+ "fisher_male_specific": 1.8e-09,
+ "fisher_dimorphic": 1.0,
+ "vnc_frac_primary": {
+  "isomorphic": 0.232,
+  "male-specific": 0.582,
+  "sexually dimorphic": 0.615
+ }
+}

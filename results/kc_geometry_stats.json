@@ -1,0 +1,103 @@
+{
+ "depth_norm": {
+  "spearman": 0.446,
+  "p": 9.1e-180,
+  "n": 3685,
+  "adjacent_AUC": {
+   "\u03b3d>\u03b3m": 0.093,
+   "\u03b3m>\u03b1'\u03b2'": 0.177,
+   "\u03b1'\u03b2'>\u03b1\u03b2p": 0.373,
+   "\u03b1\u03b2p>\u03b1\u03b2s": 0.601,
+   "\u03b1\u03b2s>\u03b1\u03b2m": 0.422,
+   "\u03b1\u03b2m>\u03b1\u03b2c": 0.577
+  },
+  "AUC_gamma_vs_ab": 0.233,
+  "AUC_ab_s_vs_c": 0.506
+ },
+ "radial3_norm": {
+  "spearman": -0.343,
+  "p": 4.7e-102,
+  "n": 3685,
+  "adjacent_AUC": {
+   "\u03b3d>\u03b3m": 0.799,
+   "\u03b3m>\u03b1'\u03b2'": 0.809,
+   "\u03b1'\u03b2'>\u03b1\u03b2p": 0.373,
+   "\u03b1\u03b2p>\u03b1\u03b2s": 0.571,
+   "\u03b1\u03b2s>\u03b1\u03b2m": 0.615,
+   "\u03b1\u03b2m>\u03b1\u03b2c": 0.371
+  },
+  "AUC_gamma_vs_ab": 0.694,
+  "AUC_ab_s_vs_c": 0.49
+ },
+ "soma_tang_clone": {
+  "spearman": -0.336,
+  "p": 2.2e-101,
+  "n": 3828,
+  "adjacent_AUC": {
+   "\u03b3d>\u03b3m": 0.475,
+   "\u03b3m>\u03b1'\u03b2'": 0.689,
+   "\u03b1'\u03b2'>\u03b1\u03b2p": 0.564,
+   "\u03b1\u03b2p>\u03b1\u03b2s": 0.465,
+   "\u03b1\u03b2s>\u03b1\u03b2m": 0.477,
+   "\u03b1\u03b2m>\u03b1\u03b2c": 0.62
+  },
+  "AUC_gamma_vs_ab": 0.713,
+  "AUC_ab_s_vs_c": 0.593
+ },
+ "clone_depth_norm": {
+  "spearman": 0.368,
+  "p": 8.2e-119,
+  "n": 3691,
+  "adjacent_AUC": {
+   "\u03b3d>\u03b3m": 0.062,
+   "\u03b3m>\u03b1'\u03b2'": 0.274,
+   "\u03b1'\u03b2'>\u03b1\u03b2p": 0.384,
+   "\u03b1\u03b2p>\u03b1\u03b2s": 0.593,
+   "\u03b1\u03b2s>\u03b1\u03b2m": 0.416,
+   "\u03b1\u03b2m>\u03b1\u03b2c": 0.588
+  },
+  "AUC_gamma_vs_ab": 0.279,
+  "AUC_ab_s_vs_c": 0.538
+ },
+ "clone_radial_norm": {
+  "spearman": -0.331,
+  "p": 7.5e-95,
+  "n": 3691,
+  "adjacent_AUC": {
+   "\u03b3d>\u03b3m": 0.779,
+   "\u03b3m>\u03b1'\u03b2'": 0.765,
+   "\u03b1'\u03b2'>\u03b1\u03b2p": 0.342,
+   "\u03b1\u03b2p>\u03b1\u03b2s": 0.616,
+   "\u03b1\u03b2s>\u03b1\u03b2m": 0.496,
+   "\u03b1\u03b2m>\u03b1\u03b2c": 0.529
+  },
+  "AUC_gamma_vs_ab": 0.691,
+  "AUC_ab_s_vs_c": 0.512
+ },
+ "lobe_depth_norm": {
+  "spearman": 0.554,
+  "p": 7.1e-84,
+  "n": 1029,
+  "adjacent_AUC": {
+   "\u03b1\u03b2p>\u03b1\u03b2s": 0.212,
+   "\u03b1\u03b2s>\u03b1\u03b2m": 0.204,
+   "\u03b1\u03b2m>\u03b1\u03b2c": 0.469
+  },
+  "AUC_ab_s_vs_c": 0.163,
+  "AUC_ab_p_vs_c": 0.022,
+  "AUC_ab_sm_vs_c": 0.305
+ },
+ "lobe_radial_norm": {
+  "spearman": -0.772,
+  "p": 5.5e-204,
+  "n": 1029,
+  "adjacent_AUC": {
+   "\u03b1\u03b2p>\u03b1\u03b2s": 0.484,
+   "\u03b1\u03b2s>\u03b1\u03b2m": 0.915,
+   "\u03b1\u03b2m>\u03b1\u03b2c": 0.729
+  },
+  "AUC_ab_s_vs_c": 0.992,
+  "AUC_ab_p_vs_c": 0.968,
+  "AUC_ab_sm_vs_c": 0.87
+ }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Connectome stratigraphy: neuronal birth order is written in the geometry of a static wiring diagram (code, per-neuron tables and figures)",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Liu, Hao", "affiliation": "School of Information Technology, Zhejiang Financial College"},
+    {"name": "Zong, Xiaojie", "affiliation": "School of Information Technology, Zhejiang Financial College"},
+    {"name": "Chen, Jie", "affiliation": "School of Information Technology, Zhejiang Financial College"},
+    {"name": "Xiong, Jianyu", "affiliation": "School of Information Technology, Zhejiang Financial College"}
+  ],
+  "keywords": ["connectome", "Drosophila", "neuronal lineage", "birth order", "mushroom body", "hemilineage", "MaleCNS"],
+  "description": "Analysis code, per-neuron geometric measurements (Table S1) and figures for the manuscript 'Connectome stratigraphy: neuronal birth order is written in the geometry of a static wiring diagram', which reads neuronal birth order from fibre and soma positions in the MaleCNS v1.0 Drosophila connectome."
+}

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or these tables, please cite the associated paper and the Zenodo archive."
+title: "Connectome stratigraphy: neuronal birth order is written in the geometry of a static wiring diagram (code, per-neuron tables and figures)"
+authors:
+  - family-names: Liu
+    given-names: Hao
+    email: liuhao@zfc.edu.cn
+    affiliation: School of Information Technology, Zhejiang Financial College
+  - family-names: Zong
+    given-names: Xiaojie
+    affiliation: School of Information Technology, Zhejiang Financial College
+  - family-names: Chen
+    given-names: Jie
+    affiliation: School of Information Technology, Zhejiang Financial College
+  - family-names: Xiong
+    given-names: Jianyu
+    affiliation: School of Information Technology, Zhejiang Financial College
+version: 1.0.0
+date-released: 2026-09-15
+license: MIT
+repository-code: https://github.com/cicisoso/connectome-stratigraphy
+keywords:
+  - connectome
+  - Drosophila
+  - neuronal lineage
+  - birth order
+  - mushroom body
+  - hemilineage

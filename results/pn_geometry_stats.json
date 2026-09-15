@@ -1,0 +1,66 @@
+{
+ "adPN": {
+  "bundle_depth": {
+   "spearman": 0.226,
+   "p": 0.035,
+   "n": 87,
+   "AUC_emb_vs_larval": 0.288,
+   "spearman_within_larval": 0.132
+  },
+  "bundle_radial2": {
+   "spearman": -0.384,
+   "p": 0.00024,
+   "n": 87,
+   "AUC_emb_vs_larval": 0.715,
+   "spearman_within_larval": -0.331
+  },
+  "soma_burial": {
+   "spearman": 0.34,
+   "p": 6.2e-05,
+   "n": 133,
+   "AUC_emb_vs_larval": 0.225,
+   "spearman_within_larval": 0.095
+  },
+  "soma_dist_centroid": {
+   "spearman": -0.351,
+   "p": 3.5e-05,
+   "n": 133,
+   "AUC_emb_vs_larval": 0.813,
+   "spearman_within_larval": 0.003
+  },
+  "soma_depth": {
+   "spearman": 0.433,
+   "p": 1.9e-07,
+   "n": 133,
+   "AUC_emb_vs_larval": 0.255,
+   "spearman_within_larval": 0.299
+  }
+ },
+ "lPN": {
+  "bundle_depth": {
+   "spearman": 0.22,
+   "p": 0.073,
+   "n": 67
+  },
+  "bundle_radial2": {
+   "spearman": -0.327,
+   "p": 0.0069,
+   "n": 67
+  },
+  "soma_burial": {
+   "spearman": 0.044,
+   "p": 0.72,
+   "n": 67
+  },
+  "soma_dist_centroid": {
+   "spearman": -0.258,
+   "p": 0.035,
+   "n": 67
+  },
+  "soma_depth": {
+   "spearman": 0.41,
+   "p": 0.00057,
+   "n": 67
+  }
+ }
+}
