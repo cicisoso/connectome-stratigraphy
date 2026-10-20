@@ -74,7 +74,7 @@ Outputs go to `results/`, `figures/` and `tables/`. `a0_prepare.py` stores the F
 
 ## Archive
 
-This code is release v2.0.0 of https://github.com/cicisoso/connectome-stratigraphy (folder `biolett/`), archived at Zenodo (all versions: https://doi.org/10.5281/zenodo.22760055).
+This code is release v2.0.0 of https://github.com/cicisoso/connectome-stratigraphy (folder `biolett/`), archived at Zenodo as https://doi.org/10.5281/zenodo.23497175 (all versions: https://doi.org/10.5281/zenodo.22760055).
 
 ## Licence
 

@@ -18,7 +18,11 @@ authors:
 version: 2.0.0
 date-released: 2026-10-20
 license: MIT
+doi: 10.5281/zenodo.23497175
 identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23497175
+    description: Zenodo archive of release v2.0.0 (Biology Letters submission)
   - type: doi
     value: 10.5281/zenodo.22760055
     description: Zenodo concept DOI (all versions)

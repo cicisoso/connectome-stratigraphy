@@ -2,13 +2,13 @@
 
 Code, per-neuron tables and figures for the manuscript *"Neuronal birth order leaves a reproducible trace in the geometry of three Drosophila connectomes"* (Liu, Zong, Chen and Xiong; School of Information Technology, Zhejiang Financial College; submitted to *Biology Letters*).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22760055.svg)](https://doi.org/10.5281/zenodo.22760055)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23497175.svg)](https://doi.org/10.5281/zenodo.23497175)
 
 We test a site-of-addition rule: a neuron's age grows with its distance from the site where its lineage adds new cells, which is the neuroblast for somata and the core of the lineage tract for fibres. In three electron-microscopy connectomes of adult *Drosophila* (MaleCNS v1.0, FlyWire v783 and BANC v888), Kenyon cells show the expected concentric order (Spearman ρ between peduncle radial position and class −0.28 to −0.45). In four lineages whose birth order was mapped by clonal analysis, an index combining soma depth, soma distance and fibre radial position correlates with birth rank (pooled ρ 0.20–0.47) and separates embryonic- from larval-born projection neurons (area under the curve 0.70–0.84). Primary (embryonic-born) somata look older than secondary somata in 230 of 261 hemilineage units. The rule is a tendency rather than a clock: of two neurons born at different times, the later-born has the younger-looking geometry in 55–73% of pairs. With the MANC v1.0 nerve cord added for connectivity, primary neurons are larger and carry 2.9–6.6 times more synapses than secondary neurons of the same unit, with little difference in partner classes.
 
 ## Versions
 
-- **v2.0.0** (this version; *Biology Letters* submission): adds `biolett/`, which repeats every analysis in MaleCNS v1.0, FlyWire v783 and BANC v888 (MANC v1.0 for connectivity), uses the clone-induction windows of Lee et al. (2020) as birth order for the vPN and PAM lineages, extends the hemilineage test to the brain, reports concordance and areas under the curve, and compares synapse counts, size and partner classes of primary and secondary neurons. It also holds the figures, Table 1, tables S1–S11 and per-neuron data of the current manuscript.
+- **v2.0.0** (this version, https://doi.org/10.5281/zenodo.23497175; *Biology Letters* submission): adds `biolett/`, which repeats every analysis in MaleCNS v1.0, FlyWire v783 and BANC v888 (MANC v1.0 for connectivity), uses the clone-induction windows of Lee et al. (2020) as birth order for the vPN and PAM lineages, extends the hemilineage test to the brain, reports concordance and areas under the curve, and compares synapse counts, size and partner classes of primary and secondary neurons. It also holds the figures, Table 1, tables S1–S11 and per-neuron data of the current manuscript.
 - **v1.0.0** (https://doi.org/10.5281/zenodo.22760056): the MaleCNS-only analyses of an earlier version of the manuscript (`code/`, `results/`, `data_tables/`, `figures/`, `qa/`), kept unchanged. `biolett/` does not use them.
 
 The connectivity numbers of v1.0.0 are superseded. v1.0.0 pooled each of 45 nerve-cord hemilineages and ranked neurons by synaptic weight; `biolett/` compares primary and secondary neurons within units of one hemilineage, side and neuromere and ranks neurons by synapse count. For the MaleCNS nerve cord the median ratio of synapse counts is then 6.6 rather than about 4, and primary neurons make up 71% of the 5% most connected neurons rather than 95%.
@@ -65,7 +65,7 @@ Steps 1-4 take about 20 minutes on a laptop once the skeletons are downloaded; t
 
 ## Citation
 
-Please cite the paper (reference to be added on publication) and the Zenodo archive of the release you used (v1.0.0: https://doi.org/10.5281/zenodo.22760056; all versions: https://doi.org/10.5281/zenodo.22760055), together with the connectome papers and data deposits: MaleCNS (Berg et al., 2026), FlyWire (Dorkenwald et al., 2024; Schlegel et al., 2024), BANC (Bates et al., 2026, and the Dataverse deposit https://doi.org/10.7910/DVN/7WTH1N) and MANC (Takemura et al., 2024; Marin et al., 2024), and the lineage studies that provide the birth orders (Lee et al., 1999; Yu et al., 2010; Lin et al., 2012; Lee et al., 2020).
+Please cite the paper (reference to be added on publication) and the Zenodo archive of the release you used (v2.0.0: https://doi.org/10.5281/zenodo.23497175; v1.0.0: https://doi.org/10.5281/zenodo.22760056; all versions: https://doi.org/10.5281/zenodo.22760055), together with the connectome papers and data deposits: MaleCNS (Berg et al., 2026), FlyWire (Dorkenwald et al., 2024; Schlegel et al., 2024), BANC (Bates et al., 2026, and the Dataverse deposit https://doi.org/10.7910/DVN/7WTH1N) and MANC (Takemura et al., 2024; Marin et al., 2024), and the lineage studies that provide the birth orders (Lee et al., 1999; Yu et al., 2010; Lin et al., 2012; Lee et al., 2020).
 
 ## License
 
