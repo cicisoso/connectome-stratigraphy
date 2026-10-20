@@ -1,6 +1,7 @@
 {
-  "title": "Connectome stratigraphy: neuronal birth order is written in the geometry of a static wiring diagram (code, per-neuron tables and figures)",
+  "title": "Neuronal birth order leaves a reproducible trace in the geometry of three Drosophila connectomes (code, per-neuron tables and figures)",
   "upload_type": "software",
+  "version": "2.0.0",
   "license": "MIT",
   "creators": [
     {"name": "Liu, Hao", "affiliation": "School of Information Technology, Zhejiang Financial College"},
@@ -8,6 +9,6 @@
     {"name": "Chen, Jie", "affiliation": "School of Information Technology, Zhejiang Financial College"},
     {"name": "Xiong, Jianyu", "affiliation": "School of Information Technology, Zhejiang Financial College"}
   ],
-  "keywords": ["connectome", "Drosophila", "neuronal lineage", "birth order", "mushroom body", "hemilineage", "MaleCNS"],
-  "description": "Analysis code, per-neuron geometric measurements (Table S1) and figures for the manuscript 'Connectome stratigraphy: neuronal birth order is written in the geometry of a static wiring diagram', which reads neuronal birth order from fibre and soma positions in the MaleCNS v1.0 Drosophila connectome."
+  "keywords": ["connectome", "Drosophila", "neuronal birth order", "neuroblast lineage", "hemilineage", "mushroom body", "MaleCNS", "FlyWire", "BANC", "MANC"],
+  "description": "Analysis code, per-neuron measurements, statistics (tables S1–S11) and figures for the manuscript 'Neuronal birth order leaves a reproducible trace in the geometry of three Drosophila connectomes' (submitted to Biology Letters). The analyses test a site-of-addition rule, under which a neuron's age grows with its distance from the site where its lineage adds new cells, in the MaleCNS v1.0, FlyWire v783 and BANC v888 connectomes, with MANC v1.0 for connectivity. Version 2.0.0 adds the folder biolett/; the files of version 1.0.0 (MaleCNS only, an earlier version of the manuscript) are kept unchanged."
 }

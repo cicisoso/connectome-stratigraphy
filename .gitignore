@@ -6,3 +6,9 @@ figures/*.tiff
 figures/*.svg
 qa/*.svg
 qa/*.collision-audit.pdf
+*.log
+biolett/results/flywire_skeleton_cache.parquet
+biolett/figures/*.tiff
+biolett/figures/*.svg
+biolett/figures/qa/*.svg
+biolett/tables/*.zip

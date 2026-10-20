@@ -20,5 +20,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Data tables (data_tables/) and figures (figures/) are released under the
-Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Tables, results and figures (data_tables/, results/ and figures/, and
+biolett/tables/, biolett/results/ and biolett/figures/) are released under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0). The files
+in biolett/external/ are supplementary files 1 and 2 of Lee et al. 2020
+(eLife 9, e53518), redistributed under their CC BY 4.0 licence.

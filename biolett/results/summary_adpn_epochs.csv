@@ -1,0 +1,4 @@
+ds,n_emb,n_larval,auc_geo_age,prim_label_in_embryonic,prim_label_in_larval
+MaleCNS,31,107,0.8375037684654808,31,8
+FlyWire,32,107,0.7873831775700935,32,8
+BANC,32,108,0.703125,32,8

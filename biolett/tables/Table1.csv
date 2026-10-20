@@ -1,0 +1,11 @@
+Test,Birth-order evidence,Measure,MaleCNS,FlyWire,BANC,Across connectomes
+"Kenyon cells: γ, α′β′, αβ",Lee et al. 1999,"peduncle fibre radial position, ρ (C)",−0.39 (0.70),−0.45 (0.73),−0.28 (0.64),3/3 in the predicted direction
+"Kenyon cells: γ, α′β′, αβ",Lee et al. 1999,"soma distance from clone axis, ρ (C)",−0.34 (0.67),−0.38 (0.69),−0.11 (0.56),3/3 in the predicted direction
+adPN lineage (33 types),Yu et al. 2010,"geometric age index, ρ (C)",0.57 (0.71),0.45 (0.66),0.36 (0.63),pooled ρ = 0.47 (0.38 to 0.54)
+lPN lineage (12 types),Lin et al. 2012,"geometric age index, ρ (C)",0.11 (0.55),0.23 (0.59),0.24 (0.60),pooled ρ = 0.20 (0.05 to 0.33)
+vPN lineage (8 types),Lee et al. 2020,"geometric age index, ρ (C)",0.50 (0.70),0.25 (0.59),0.52 (0.68),pooled ρ = 0.44 (0.20 to 0.63)
+PAM lineage (15 types),Lee et al. 2020,"geometric age index, ρ (C)",0.26 (0.59),0.25 (0.60),0.20 (0.57),pooled ρ = 0.24 (0.17 to 0.31)
+"adPN, embryonic- vs larval-born",Yu et al. 2010,"geometric age index, AUC",0.84,0.79,0.70,3/3 > 0.5
+"Brain hemilineages, primary vs secondary",connectome annotations,"soma index, median AUC (units > 0.5)",0.82 (6/6),0.72 (11/14),0.67 (10/14),3/3 medians > 0.5
+"VNC hemilineages, primary vs secondary",MANC birth classes,"soma index, median AUC (units > 0.5)",0.68 (105/118),–,0.72 (98/109),2/2 medians > 0.5
+"VNC hemilineages, early vs late secondary",MANC birth classes,"soma index, median AUC (units > 0.5)",0.64 (86/107),–,0.65 (81/93),2/2 medians > 0.5

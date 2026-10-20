@@ -1,0 +1,122 @@
+{
+ "brain": {
+  "n_units": 6,
+  "n_hemilineages": 3,
+  "n_neurons": 521,
+  "n_primary": 132,
+  "auc_soma_depth": {
+   "median": 0.7550047382136934,
+   "n_units": 6,
+   "n_consistent": 5,
+   "sign_test_p": 0.21875
+  },
+  "auc_soma_tang": {
+   "median": 0.7837810870812443,
+   "n_units": 6,
+   "n_consistent": 6,
+   "sign_test_p": 0.03125
+  },
+  "auc_soma_dist": {
+   "median": 0.7643070660318105,
+   "n_units": 6,
+   "n_consistent": 6,
+   "sign_test_p": 0.03125
+  },
+  "auc_radial": {
+   "median": 0.5714015151515152,
+   "n_units": 2,
+   "n_consistent": 1,
+   "sign_test_p": 1.0
+  },
+  "auc_burial": {
+   "median": 0.5833333333333333,
+   "n_units": 2,
+   "n_consistent": 1,
+   "sign_test_p": 1.0
+  },
+  "auc_geo_age_soma": {
+   "median": 0.8190120824449183,
+   "n_units": 6,
+   "n_consistent": 6,
+   "sign_test_p": 0.03125
+  },
+  "auc_geo_age": {
+   "median": 0.8011134802179578,
+   "n_units": 6,
+   "n_consistent": 6,
+   "sign_test_p": 0.03125
+  },
+  "auc_early_vs_late_geo_age_soma": {
+   "median": null,
+   "n_units": 0,
+   "n_consistent": 0,
+   "sign_test_p": NaN
+  },
+  "rho_level_geo_age_soma": {
+   "median": null,
+   "n_units": 0,
+   "n_consistent": 0,
+   "sign_test_p": NaN
+  }
+ },
+ "vnc": {
+  "n_units": 118,
+  "n_hemilineages": 28,
+  "n_neurons": 8595,
+  "n_primary": 903,
+  "auc_soma_depth": {
+   "median": 0.6155626780626781,
+   "n_units": 118,
+   "n_consistent": 83,
+   "sign_test_p": 6.775655653746717e-06
+  },
+  "auc_soma_tang": {
+   "median": 0.6859623015873015,
+   "n_units": 118,
+   "n_consistent": 101,
+   "sign_test_p": 2.8669598238307675e-16
+  },
+  "auc_soma_dist": {
+   "median": 0.7043759512937595,
+   "n_units": 118,
+   "n_consistent": 104,
+   "sign_test_p": 3.6166024407626366e-18
+  },
+  "auc_radial": {
+   "median": 0.8027777777777778,
+   "n_units": 95,
+   "n_consistent": 86,
+   "sign_test_p": 6.606356572585723e-17
+  },
+  "auc_burial": {
+   "median": 0.7363636363636363,
+   "n_units": 95,
+   "n_consistent": 81,
+   "sign_test_p": 1.2402507363468661e-12
+  },
+  "auc_geo_age_soma": {
+   "median": 0.6789913094424374,
+   "n_units": 118,
+   "n_consistent": 105,
+   "sign_test_p": 4.764406071312223e-19
+  },
+  "auc_geo_age": {
+   "median": 0.7464251893939393,
+   "n_units": 118,
+   "n_consistent": 111,
+   "sign_test_p": 3.382436850395309e-25
+  },
+  "auc_early_vs_late_geo_age_soma": {
+   "median": 0.64375,
+   "n_units": 107,
+   "n_consistent": 86,
+   "sign_test_p": 1.6010060804361699e-10
+  },
+  "rho_level_geo_age_soma": {
+   "median": 0.21142735765371234,
+   "n_units": 107,
+   "n_consistent": 95,
+   "sign_test_p": 3.4854173062242376e-17
+  }
+ }
+}

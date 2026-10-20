@@ -1,0 +1,50 @@
+{
+ "brain": {
+  "n_units": 14,
+  "n_hemilineages": 7,
+  "n_neurons": 1281,
+  "n_primary": 218,
+  "auc_soma_depth": {
+   "median": 0.4899880952380952,
+   "n_units": 14,
+   "n_consistent": 7,
+   "sign_test_p": 1.0
+  },
+  "auc_soma_tang": {
+   "median": 0.6850420516465292,
+   "n_units": 14,
+   "n_consistent": 13,
+   "sign_test_p": 0.0018310546875
+  },
+  "auc_soma_dist": {
+   "median": 0.7271388749161636,
+   "n_units": 14,
+   "n_consistent": 13,
+   "sign_test_p": 0.0018310546875
+  },
+  "auc_radial": {
+   "median": 0.8363181709930936,
+   "n_units": 10,
+   "n_consistent": 9,
+   "sign_test_p": 0.021484375
+  },
+  "auc_burial": {
+   "median": 0.639129105520615,
+   "n_units": 10,
+   "n_consistent": 7,
+   "sign_test_p": 0.34375
+  },
+  "auc_geo_age_soma": {
+   "median": 0.7152213930348259,
+   "n_units": 14,
+   "n_consistent": 11,
+   "sign_test_p": 0.057373046875
+  },
+  "auc_geo_age": {
+   "median": 0.7562003968253967,
+   "n_units": 14,
+   "n_consistent": 13,
+   "sign_test_p": 0.0018310546875
+  }
+ }
+}

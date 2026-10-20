@@ -1,0 +1,1382 @@
+[
+ {
+  "ds": "MaleCNS",
+  "lineage": "adPN",
+  "hl": "ALad1",
+  "side": "L",
+  "frame_type": "hemilineage",
+  "frame": "ALad1 L hemilineage",
+  "n_somata": 88,
+  "n_paths": 88,
+  "soma_centroid": [
+   429.085,
+   173.958,
+   94.322
+  ],
+  "outflow_centroid": [
+   431.642,
+   181.984,
+   96.509
+  ],
+  "soma_axis": [
+   -0.29378,
+   -0.92227,
+   -0.25121
+  ],
+  "outflow_to_soma_um": 8.7,
+  "tract": {
+   "convergence_point": [
+    421.5,
+    184.5,
+    94.5
+   ],
+   "tract_axis": [
+    0.17224,
+    0.98501,
+    0.00975
+   ],
+   "radius_um": 9.997,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 37,
+   "n_fibres": 88,
+   "n_near": 27,
+   "n_in_section": 46
+  },
+  "section": {
+   "centroid": [
+    423.552,
+    184.121,
+    95.134
+   ],
+   "axis": [
+    0.17224,
+    0.98501,
+    0.00975
+   ],
+   "e1": [
+    0.48013,
+    -0.0753,
+    -0.87396
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 46,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "adPN",
+  "hl": "ALad1",
+  "side": "L",
+  "frame_type": "pn_only",
+  "frame": "ALad1 L pn_only",
+  "n_somata": 77,
+  "n_paths": 77,
+  "soma_centroid": [
+   428.974,
+   175.121,
+   94.636
+  ],
+  "outflow_centroid": [
+   430.792,
+   183.351,
+   96.243
+  ],
+  "soma_axis": [
+   -0.21182,
+   -0.9592,
+   -0.18729
+  ],
+  "outflow_to_soma_um": 8.58,
+  "tract": {
+   "convergence_point": [
+    421.5,
+    184.5,
+    94.5
+   ],
+   "tract_axis": [
+    0.15062,
+    0.98852,
+    -0.01193
+   ],
+   "radius_um": 10.361,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 34,
+   "n_fibres": 77,
+   "n_near": 24,
+   "n_in_section": 43
+  },
+  "section": {
+   "centroid": [
+    423.59,
+    184.151,
+    95.042
+   ],
+   "axis": [
+    0.15062,
+    0.98852,
+    -0.01193
+   ],
+   "e1": [
+    0.50083,
+    -0.0867,
+    -0.86119
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 43,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "adPN",
+  "hl": "ALad1",
+  "side": "R",
+  "frame_type": "hemilineage",
+  "frame": "ALad1 R hemilineage",
+  "n_somata": 83,
+  "n_paths": 70,
+  "soma_centroid": [
+   338.028,
+   197.92,
+   107.003
+  ],
+  "outflow_centroid": [
+   337.843,
+   208.06,
+   104.058
+  ],
+  "soma_axis": [
+   0.01752,
+   -0.96015,
+   0.27892
+  ],
+  "outflow_to_soma_um": 10.56,
+  "tract": {
+   "convergence_point": [
+    346.5,
+    190.5,
+    106.5
+   ],
+   "tract_axis": [
+    0.0131,
+    -0.96782,
+    0.25129
+   ],
+   "radius_um": 8.116,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 25,
+   "n_fibres": 70,
+   "n_near": 23,
+   "n_in_section": 26
+  },
+  "section": {
+   "centroid": [
+    345.238,
+    190.566,
+    106.905
+   ],
+   "axis": [
+    0.0131,
+    -0.96782,
+    0.25129
+   ],
+   "e1": [
+    -0.35765,
+    -0.23922,
+    -0.90269
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 26,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "adPN",
+  "hl": "ALad1",
+  "side": "R",
+  "frame_type": "pn_only",
+  "frame": "ALad1 R pn_only",
+  "n_somata": 72,
+  "n_paths": 64,
+  "soma_centroid": [
+   335.253,
+   201.963,
+   106.72
+  ],
+  "outflow_centroid": [
+   337.074,
+   209.767,
+   103.258
+  ],
+  "soma_axis": [
+   -0.20853,
+   -0.89403,
+   0.39652
+  ],
+  "outflow_to_soma_um": 8.73,
+  "tract": {
+   "convergence_point": [
+    340.5,
+    220.5,
+    97.5
+   ],
+   "tract_axis": [
+    -0.14804,
+    0.96904,
+    0.1976
+   ],
+   "radius_um": 10.402,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 22,
+   "n_fibres": 64,
+   "n_near": 15,
+   "n_in_section": 25
+  },
+  "section": {
+   "centroid": [
+    339.191,
+    220.686,
+    96.994
+   ],
+   "axis": [
+    -0.14804,
+    0.96904,
+    0.1976
+   ],
+   "e1": [
+    0.76222,
+    -0.01552,
+    0.64714
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 25,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "lPN",
+  "hl": "ALl1_ventral",
+  "side": "L",
+  "frame_type": "hemilineage",
+  "frame": "ALl1_ventral L hemilineage",
+  "n_somata": 160,
+  "n_paths": 151,
+  "soma_centroid": [
+   502.301,
+   222.742,
+   118.516
+  ],
+  "outflow_centroid": [
+   491.529,
+   225.686,
+   124.416
+  ],
+  "soma_axis": [
+   0.85288,
+   -0.23311,
+   -0.46717
+  ],
+  "outflow_to_soma_um": 12.63,
+  "tract": {
+   "convergence_point": [
+    475.5,
+    241.5,
+    141.0
+   ],
+   "tract_axis": [
+    -0.81586,
+    0.36345,
+    0.44975
+   ],
+   "radius_um": 7.5,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 92,
+   "n_fibres": 151,
+   "n_near": 75,
+   "n_in_section": 90
+  },
+  "section": {
+   "centroid": [
+    475.521,
+    241.74,
+    140.432
+   ],
+   "axis": [
+    -0.81586,
+    0.36345,
+    0.44975
+   ],
+   "e1": [
+    -0.07738,
+    -0.83941,
+    0.53796
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 90,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "lPN",
+  "hl": "ALl1_ventral",
+  "side": "L",
+  "frame_type": "pn_only",
+  "frame": "ALl1_ventral L pn_only",
+  "n_somata": 34,
+  "n_paths": 34,
+  "soma_centroid": [
+   505.997,
+   202.66,
+   111.861
+  ],
+  "outflow_centroid": [
+   493.668,
+   201.993,
+   111.935
+  ],
+  "soma_axis": [
+   0.99853,
+   0.05396,
+   -0.00596
+  ],
+  "outflow_to_soma_um": 12.35,
+  "tract": {
+   "convergence_point": [
+    483.0,
+    205.5,
+    112.5
+   ],
+   "tract_axis": [
+    -0.90108,
+    0.21843,
+    0.37463
+   ],
+   "radius_um": 7.551,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 33,
+   "n_fibres": 34,
+   "n_near": 31,
+   "n_in_section": 33
+  },
+  "section": {
+   "centroid": [
+    482.488,
+    204.721,
+    111.426
+   ],
+   "axis": [
+    -0.90108,
+    0.21843,
+    0.37463
+   ],
+   "e1": [
+    0.37141,
+    -0.05722,
+    0.9267
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 33,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "lPN",
+  "hl": "ALl1_ventral",
+  "side": "R",
+  "frame_type": "hemilineage",
+  "frame": "ALl1_ventral R hemilineage",
+  "n_somata": 157,
+  "n_paths": 146,
+  "soma_centroid": [
+   269.575,
+   240.766,
+   128.028
+  ],
+  "outflow_centroid": [
+   281.693,
+   244.763,
+   134.788
+  ],
+  "soma_axis": [
+   -0.83918,
+   -0.2768,
+   -0.46815
+  ],
+  "outflow_to_soma_um": 14.44,
+  "tract": {
+   "convergence_point": [
+    298.5,
+    256.5,
+    145.5
+   ],
+   "tract_axis": [
+    0.9404,
+    0.14632,
+    0.30697
+   ],
+   "radius_um": 8.913,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 80,
+   "n_fibres": 146,
+   "n_near": 70,
+   "n_in_section": 91
+  },
+  "section": {
+   "centroid": [
+    298.266,
+    257.434,
+    145.421
+   ],
+   "axis": [
+    0.9404,
+    0.14632,
+    0.30697
+   ],
+   "e1": [
+    -0.04406,
+    -0.84266,
+    0.53664
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 91,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "lPN",
+  "hl": "ALl1_ventral",
+  "side": "R",
+  "frame_type": "pn_only",
+  "frame": "ALl1_ventral R pn_only",
+  "n_somata": 33,
+  "n_paths": 33,
+  "soma_centroid": [
+   266.741,
+   223.286,
+   118.992
+  ],
+  "outflow_centroid": [
+   277.601,
+   224.192,
+   127.133
+  ],
+  "soma_axis": [
+   -0.79835,
+   -0.06664,
+   -0.5985
+  ],
+  "outflow_to_soma_um": 13.6,
+  "tract": {
+   "convergence_point": [
+    279.0,
+    223.5,
+    130.5
+   ],
+   "tract_axis": [
+    0.93136,
+    -0.09009,
+    0.35279
+   ],
+   "radius_um": 10.133,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 32,
+   "n_fibres": 33,
+   "n_near": 27,
+   "n_in_section": 33
+  },
+  "section": {
+   "centroid": [
+    279.59,
+    224.235,
+    128.727
+   ],
+   "axis": [
+    0.93136,
+    -0.09009,
+    0.35279
+   ],
+   "e1": [
+    0.35366,
+    0.45429,
+    -0.81765
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 33,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "vPN",
+  "hl": "ALv1",
+  "side": "L",
+  "frame_type": "hemilineage",
+  "frame": "ALv1 L hemilineage",
+  "n_somata": 102,
+  "n_paths": 102,
+  "soma_centroid": [
+   465.858,
+   274.543,
+   110.215
+  ],
+  "outflow_centroid": [
+   465.818,
+   263.995,
+   117.635
+  ],
+  "soma_axis": [
+   0.00311,
+   0.81788,
+   -0.57539
+  ],
+  "outflow_to_soma_um": 12.9,
+  "tract": {
+   "convergence_point": [
+    468.0,
+    255.0,
+    130.5
+   ],
+   "tract_axis": [
+    0.49674,
+    -0.52751,
+    0.68919
+   ],
+   "radius_um": 6.067,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 101,
+   "n_fibres": 102,
+   "n_near": 97,
+   "n_in_section": 99
+  },
+  "section": {
+   "centroid": [
+    467.252,
+    253.295,
+    129.739
+   ],
+   "axis": [
+    0.49674,
+    -0.52751,
+    0.68919
+   ],
+   "e1": [
+    0.63546,
+    -0.3198,
+    -0.70279
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 99,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "vPN",
+  "hl": "ALv1",
+  "side": "L",
+  "frame_type": "pn_only",
+  "frame": "ALv1 L pn_only",
+  "n_somata": 21,
+  "n_paths": 21,
+  "soma_centroid": [
+   465.885,
+   273.495,
+   111.88
+  ],
+  "outflow_centroid": [
+   465.473,
+   262.74,
+   119.548
+  ],
+  "soma_axis": [
+   0.03119,
+   0.81384,
+   -0.58025
+  ],
+  "outflow_to_soma_um": 13.21,
+  "tract": {
+   "convergence_point": [
+    466.5,
+    256.5,
+    129.0
+   ],
+   "tract_axis": [
+    0.41158,
+    -0.6007,
+    0.68539
+   ],
+   "radius_um": 5.653,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 21,
+   "n_fibres": 21,
+   "n_near": 17,
+   "n_in_section": 21
+  },
+  "section": {
+   "centroid": [
+    465.376,
+    255.356,
+    128.429
+   ],
+   "axis": [
+    0.41158,
+    -0.6007,
+    0.68539
+   ],
+   "e1": [
+    -0.48741,
+    0.49037,
+    0.72247
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 21,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "vPN",
+  "hl": "ALv1",
+  "side": "R",
+  "frame_type": "hemilineage",
+  "frame": "ALv1 R hemilineage",
+  "n_somata": 105,
+  "n_paths": 103,
+  "soma_centroid": [
+   311.149,
+   281.922,
+   111.132
+  ],
+  "outflow_centroid": [
+   311.849,
+   276.172,
+   123.307
+  ],
+  "soma_axis": [
+   -0.05196,
+   0.42648,
+   -0.903
+  ],
+  "outflow_to_soma_um": 13.48,
+  "tract": {
+   "convergence_point": [
+    310.5,
+    271.5,
+    136.5
+   ],
+   "tract_axis": [
+    0.37944,
+    0.38671,
+    -0.84052
+   ],
+   "radius_um": 5.417,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 102,
+   "n_fibres": 103,
+   "n_near": 94,
+   "n_in_section": 99
+  },
+  "section": {
+   "centroid": [
+    311.37,
+    270.549,
+    136.44
+   ],
+   "axis": [
+    0.37944,
+    0.38671,
+    -0.84052
+   ],
+   "e1": [
+    0.86213,
+    0.18192,
+    0.4729
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 99,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "vPN",
+  "hl": "ALv1",
+  "side": "R",
+  "frame_type": "pn_only",
+  "frame": "ALv1 R pn_only",
+  "n_somata": 22,
+  "n_paths": 22,
+  "soma_centroid": [
+   305.648,
+   280.565,
+   113.726
+  ],
+  "outflow_centroid": [
+   308.847,
+   275.844,
+   123.375
+  ],
+  "soma_axis": [
+   -0.28542,
+   0.42126,
+   -0.86086
+  ],
+  "outflow_to_soma_um": 11.21,
+  "tract": {
+   "convergence_point": [
+    310.5,
+    271.5,
+    127.5
+   ],
+   "tract_axis": [
+    0.15379,
+    0.23805,
+    -0.959
+   ],
+   "radius_um": 7.461,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 21,
+   "n_fibres": 22,
+   "n_near": 16,
+   "n_in_section": 20
+  },
+  "section": {
+   "centroid": [
+    312.763,
+    272.163,
+    128.029
+   ],
+   "axis": [
+    0.15379,
+    0.23805,
+    -0.959
+   ],
+   "e1": [
+    0.96838,
+    -0.22924,
+    0.09839
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 20,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "PAM",
+  "hl": "CREa1_dorsal",
+  "side": "L",
+  "frame_type": "hemilineage",
+  "frame": "CREa1_dorsal L hemilineage",
+  "n_somata": 75,
+  "n_paths": 73,
+  "soma_centroid": [
+   424.731,
+   134.201,
+   93.391
+  ],
+  "outflow_centroid": [
+   434.757,
+   124.493,
+   98.439
+  ],
+  "soma_axis": [
+   -0.67557,
+   0.65415,
+   -0.34014
+  ],
+  "outflow_to_soma_um": 14.84,
+  "tract": {
+   "convergence_point": [
+    445.5,
+    112.5,
+    109.5
+   ],
+   "tract_axis": [
+    0.16129,
+    -0.49857,
+    0.85171
+   ],
+   "radius_um": 11.174,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 67,
+   "n_fibres": 73,
+   "n_near": 49,
+   "n_in_section": 61
+  },
+  "section": {
+   "centroid": [
+    444.198,
+    113.881,
+    109.977
+   ],
+   "axis": [
+    0.16129,
+    -0.49857,
+    0.85171
+   ],
+   "e1": [
+    -0.67905,
+    0.57018,
+    0.46236
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 61,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "PAM",
+  "hl": "CREa1_dorsal",
+  "side": "L",
+  "frame_type": "pn_only",
+  "frame": "CREa1_dorsal L pn_only",
+  "n_somata": 71,
+  "n_paths": 69,
+  "soma_centroid": [
+   423.002,
+   135.531,
+   92.218
+  ],
+  "outflow_centroid": [
+   433.878,
+   125.614,
+   97.258
+  ],
+  "soma_axis": [
+   -0.69905,
+   0.63747,
+   -0.32396
+  ],
+  "outflow_to_soma_um": 15.56,
+  "tract": {
+   "convergence_point": [
+    445.5,
+    115.5,
+    103.5
+   ],
+   "tract_axis": [
+    0.28249,
+    -0.56522,
+    0.77507
+   ],
+   "radius_um": 9.505,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 65,
+   "n_fibres": 69,
+   "n_near": 61,
+   "n_in_section": 66
+  },
+  "section": {
+   "centroid": [
+    443.157,
+    116.225,
+    105.209
+   ],
+   "axis": [
+    0.28249,
+    -0.56522,
+    0.77507
+   ],
+   "e1": [
+    -0.59888,
+    -0.73509,
+    -0.31779
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 66,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "PAM",
+  "hl": "CREa1_dorsal",
+  "side": "R",
+  "frame_type": "hemilineage",
+  "frame": "CREa1_dorsal R hemilineage",
+  "n_somata": 74,
+  "n_paths": 66,
+  "soma_centroid": [
+   332.482,
+   135.934,
+   100.494
+  ],
+  "outflow_centroid": [
+   325.877,
+   127.346,
+   105.526
+  ],
+  "soma_axis": [
+   0.55288,
+   0.71892,
+   -0.42128
+  ],
+  "outflow_to_soma_um": 11.95,
+  "tract": {
+   "convergence_point": [
+    316.5,
+    120.0,
+    109.5
+   ],
+   "tract_axis": [
+    0.02669,
+    0.52902,
+    -0.84819
+   ],
+   "radius_um": 10.409,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 61,
+   "n_fibres": 66,
+   "n_near": 57,
+   "n_in_section": 60
+  },
+  "section": {
+   "centroid": [
+    318.983,
+    121.211,
+    110.525
+   ],
+   "axis": [
+    0.02669,
+    0.52902,
+    -0.84819
+   ],
+   "e1": [
+    -0.99754,
+    -0.04094,
+    -0.05692
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 60,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "PAM",
+  "hl": "CREa1_dorsal",
+  "side": "R",
+  "frame_type": "pn_only",
+  "frame": "CREa1_dorsal R pn_only",
+  "n_somata": 70,
+  "n_paths": 62,
+  "soma_centroid": [
+   333.444,
+   136.5,
+   100.082
+  ],
+  "outflow_centroid": [
+   326.486,
+   127.826,
+   104.941
+  ],
+  "soma_axis": [
+   0.57337,
+   0.71479,
+   -0.4004
+  ],
+  "outflow_to_soma_um": 12.14,
+  "tract": {
+   "convergence_point": [
+    316.5,
+    121.5,
+    109.5
+   ],
+   "tract_axis": [
+    0.03441,
+    0.53429,
+    -0.8446
+   ],
+   "radius_um": 9.653,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 59,
+   "n_fibres": 62,
+   "n_near": 59,
+   "n_in_section": 58
+  },
+  "section": {
+   "centroid": [
+    319.037,
+    121.486,
+    109.913
+   ],
+   "axis": [
+    0.03441,
+    0.53429,
+    -0.8446
+   ],
+   "e1": [
+    -0.99934,
+    0.00851,
+    -0.03533
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 58,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "PAM",
+  "hl": "CREa2_medial",
+  "side": "L",
+  "frame_type": "hemilineage",
+  "frame": "CREa2_medial L hemilineage",
+  "n_somata": 89,
+  "n_paths": 80,
+  "soma_centroid": [
+   462.034,
+   120.308,
+   111.129
+  ],
+  "outflow_centroid": [
+   458.876,
+   116.1,
+   117.873
+  ],
+  "soma_axis": [
+   0.36917,
+   0.49197,
+   -0.78847
+  ],
+  "outflow_to_soma_um": 8.55,
+  "tract": {
+   "convergence_point": [
+    459.0,
+    109.5,
+    123.0
+   ],
+   "tract_axis": [
+    -0.76167,
+    -0.403,
+    0.5074
+   ],
+   "radius_um": 10.89,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 75,
+   "n_fibres": 80,
+   "n_near": 75,
+   "n_in_section": 74
+  },
+  "section": {
+   "centroid": [
+    457.104,
+    111.54,
+    122.62
+   ],
+   "axis": [
+    -0.76167,
+    -0.403,
+    0.5074
+   ],
+   "e1": [
+    0.26617,
+    -0.90854,
+    -0.32204
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 74,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "PAM",
+  "hl": "CREa2_medial",
+  "side": "L",
+  "frame_type": "pn_only",
+  "frame": "CREa2_medial L pn_only",
+  "n_somata": 87,
+  "n_paths": 79,
+  "soma_centroid": [
+   461.955,
+   120.472,
+   110.903
+  ],
+  "outflow_centroid": [
+   458.97,
+   116.098,
+   117.702
+  ],
+  "soma_axis": [
+   0.34641,
+   0.50749,
+   -0.78896
+  ],
+  "outflow_to_soma_um": 8.62,
+  "tract": {
+   "convergence_point": [
+    459.0,
+    109.5,
+    123.0
+   ],
+   "tract_axis": [
+    0.76283,
+    0.40817,
+    -0.50149
+   ],
+   "radius_um": 10.897,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 74,
+   "n_fibres": 79,
+   "n_near": 74,
+   "n_in_section": 73
+  },
+  "section": {
+   "centroid": [
+    457.104,
+    111.52,
+    122.595
+   ],
+   "axis": [
+    0.76283,
+    0.40817,
+    -0.50149
+   ],
+   "e1": [
+    0.3083,
+    -0.91134,
+    -0.27278
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 73,
+   "slabs_used": 6,
+   "slab_range_um": [
+    -6.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "PAM",
+  "hl": "CREa2_medial",
+  "side": "R",
+  "frame_type": "hemilineage",
+  "frame": "CREa2_medial R hemilineage",
+  "n_somata": 90,
+  "n_paths": 63,
+  "soma_centroid": [
+   316.971,
+   103.946,
+   118.951
+  ],
+  "outflow_centroid": [
+   313.816,
+   111.188,
+   122.659
+  ],
+  "soma_axis": [
+   0.3616,
+   -0.82991,
+   -0.42484
+  ],
+  "outflow_to_soma_um": 8.73,
+  "tract": {
+   "convergence_point": [
+    312.0,
+    114.0,
+    123.0
+   ],
+   "tract_axis": [
+    -0.73057,
+    0.06203,
+    -0.68001
+   ],
+   "radius_um": 10.768,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 63,
+   "n_fibres": 63,
+   "n_near": 57,
+   "n_in_section": 63
+  },
+  "section": {
+   "centroid": [
+    311.662,
+    113.842,
+    122.112
+   ],
+   "axis": [
+    -0.73057,
+    0.06203,
+    -0.68001
+   ],
+   "e1": [
+    -0.52021,
+    -0.69565,
+    0.49543
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 63,
+   "slabs_used": 7,
+   "slab_range_um": [
+    -8.0,
+    6.0
+   ]
+  }
+ },
+ {
+  "ds": "MaleCNS",
+  "lineage": "PAM",
+  "hl": "CREa2_medial",
+  "side": "R",
+  "frame_type": "pn_only",
+  "frame": "CREa2_medial R pn_only",
+  "n_somata": 88,
+  "n_paths": 61,
+  "soma_centroid": [
+   317.205,
+   103.801,
+   118.924
+  ],
+  "outflow_centroid": [
+   313.843,
+   111.145,
+   122.447
+  ],
+  "soma_axis": [
+   0.38151,
+   -0.83342,
+   -0.39983
+  ],
+  "outflow_to_soma_um": 8.81,
+  "tract": {
+   "convergence_point": [
+    312.0,
+    114.0,
+    123.0
+   ],
+   "tract_axis": [
+    0.7533,
+    -0.03647,
+    0.65666
+   ],
+   "radius_um": 10.637,
+   "half_length_um": 6.0,
+   "max_fibres_per_voxel": 61,
+   "n_fibres": 61,
+   "n_near": 56,
+   "n_in_section": 61
+  },
+  "section": {
+   "centroid": [
+    311.711,
+    113.884,
+    122.082
+   ],
+   "axis": [
+    0.7533,
+    -0.03647,
+    0.65666
+   ],
+   "e1": [
+    0.47904,
+    0.71454,
+    -0.50986
+   ],
+   "slab_um": 2.0,
+   "min_coverage": 0.6,
+   "n_neurons": 61,
+   "slabs_used": 5,
+   "slab_range_um": [
+    -4.0,
+    6.0
+   ]
+  }
+ }
+]

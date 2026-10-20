@@ -1,0 +1,194 @@
+[
+ {
+  "ds": "MaleCNS",
+  "bundle": "KC peduncle L",
+  "cylinder": {
+   "centre": [
+    479.599,
+    129.064,
+    254.436
+   ],
+   "axis": [
+    -0.18737,
+    -0.39203,
+    0.90067
+   ],
+   "radius_um": 25.14651086907561,
+   "half_length_um": 20.0,
+   "n_near": 1388
+  },
+  "centroid": [
+   479.251,
+   128.487,
+   254.999
+  ],
+  "axis": [
+   -0.18737,
+   -0.39203,
+   0.90067
+  ],
+  "e1": [
+   0.9805,
+   -0.12998,
+   0.1474
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.8,
+  "n_neurons": 1956,
+  "slabs_used": 10,
+  "slab_range_um": [
+   -24.0,
+   16.0
+  ]
+ },
+ {
+  "ds": "MaleCNS",
+  "bundle": "KC alpha/beta lobe L0",
+  "centroid": [
+   463.307,
+   130.391,
+   153.442
+  ],
+  "axis": [
+   -0.44044,
+   -0.5848,
+   -0.68119
+  ],
+  "e1": [
+   -0.05737,
+   -0.73886,
+   0.67141
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.5,
+  "n_neurons": 427,
+  "slabs_used": 5,
+  "slab_range_um": [
+   -8.0,
+   12.0
+  ]
+ },
+ {
+  "ds": "MaleCNS",
+  "bundle": "KC alpha/beta lobe L1",
+  "centroid": [
+   464.275,
+   154.419,
+   132.374
+  ],
+  "axis": [
+   -0.72638,
+   0.02461,
+   -0.68685
+  ],
+  "e1": [
+   -0.6867,
+   0.01546,
+   0.72677
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.5,
+  "n_neurons": 230,
+  "slabs_used": 8,
+  "slab_range_um": [
+   -16.0,
+   16.0
+  ]
+ },
+ {
+  "ds": "MaleCNS",
+  "bundle": "KC peduncle R",
+  "cylinder": {
+   "centre": [
+    293.906,
+    137.208,
+    256.727
+   ],
+   "axis": [
+    0.20185,
+    -0.32362,
+    0.92441
+   ],
+   "radius_um": 25.602197680588613,
+   "half_length_um": 20.0,
+   "n_near": 1341
+  },
+  "centroid": [
+   294.159,
+   136.571,
+   257.236
+  ],
+  "axis": [
+   0.20185,
+   -0.32362,
+   0.92441
+  ],
+  "e1": [
+   -0.97283,
+   0.043,
+   0.22748
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.8,
+  "n_neurons": 1871,
+  "slabs_used": 10,
+  "slab_range_um": [
+   -24.0,
+   16.0
+  ]
+ },
+ {
+  "ds": "MaleCNS",
+  "bundle": "KC alpha/beta lobe R0",
+  "centroid": [
+   309.851,
+   137.418,
+   155.14
+  ],
+  "axis": [
+   -0.3707,
+   0.55534,
+   0.74443
+  ],
+  "e1": [
+   0.08084,
+   -0.7792,
+   0.62153
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.5,
+  "n_neurons": 439,
+  "slabs_used": 5,
+  "slab_range_um": [
+   -12.0,
+   8.0
+  ]
+ },
+ {
+  "ds": "MaleCNS",
+  "bundle": "KC alpha/beta lobe R1",
+  "centroid": [
+   307.669,
+   161.163,
+   134.151
+  ],
+  "axis": [
+   0.60179,
+   0.05846,
+   -0.79651
+  ],
+  "e1": [
+   -0.79844,
+   0.06695,
+   -0.59834
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.5,
+  "n_neurons": 185,
+  "slabs_used": 8,
+  "slab_range_um": [
+   -16.0,
+   16.0
+  ]
+ }
+]

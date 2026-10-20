@@ -1,0 +1,194 @@
+[
+ {
+  "ds": "FlyWire",
+  "bundle": "KC peduncle L",
+  "cylinder": {
+   "centre": [
+    432.108,
+    163.42,
+    180.657
+   ],
+   "axis": [
+    -0.22488,
+    0.23354,
+    -0.94599
+   ],
+   "radius_um": 25.965076515105984,
+   "half_length_um": 20.0,
+   "n_near": 1601
+  },
+  "centroid": [
+   432.621,
+   162.666,
+   181.983
+  ],
+  "axis": [
+   -0.22488,
+   0.23354,
+   -0.94599
+  ],
+  "e1": [
+   -0.93553,
+   0.2197,
+   0.27663
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.8,
+  "n_neurons": 2576,
+  "slabs_used": 10,
+  "slab_range_um": [
+   -16.0,
+   24.0
+  ]
+ },
+ {
+  "ds": "FlyWire",
+  "bundle": "KC alpha/beta lobe L0",
+  "centroid": [
+   442.258,
+   148.176,
+   101.368
+  ],
+  "axis": [
+   -0.23475,
+   0.59625,
+   0.76771
+  ],
+  "e1": [
+   -0.13616,
+   0.76182,
+   -0.63331
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.5,
+  "n_neurons": 256,
+  "slabs_used": 5,
+  "slab_range_um": [
+   -16.0,
+   4.0
+  ]
+ },
+ {
+  "ds": "FlyWire",
+  "bundle": "KC alpha/beta lobe L1",
+  "centroid": [
+   450.166,
+   177.802,
+   75.111
+  ],
+  "axis": [
+   0.89943,
+   0.16454,
+   -0.40491
+  ],
+  "e1": [
+   -0.42497,
+   0.11282,
+   -0.89815
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.5,
+  "n_neurons": 323,
+  "slabs_used": 7,
+  "slab_range_um": [
+   -16.0,
+   12.0
+  ]
+ },
+ {
+  "ds": "FlyWire",
+  "bundle": "KC peduncle R",
+  "cylinder": {
+   "centre": [
+    629.97,
+    168.455,
+    165.583
+   ],
+   "axis": [
+    -0.03745,
+    0.25304,
+    -0.96673
+   ],
+   "radius_um": 26.264253912765934,
+   "half_length_um": 20.0,
+   "n_near": 1570
+  },
+  "centroid": [
+   629.189,
+   168.152,
+   166.406
+  ],
+  "axis": [
+   -0.03745,
+   0.25304,
+   -0.96673
+  ],
+  "e1": [
+   -0.98261,
+   -0.18538,
+   -0.01046
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.8,
+  "n_neurons": 2595,
+  "slabs_used": 10,
+  "slab_range_um": [
+   -16.0,
+   24.0
+  ]
+ },
+ {
+  "ds": "FlyWire",
+  "bundle": "KC alpha/beta lobe R0",
+  "centroid": [
+   598.274,
+   184.519,
+   61.06
+  ],
+  "axis": [
+   -0.95758,
+   0.14845,
+   -0.24697
+  ],
+  "e1": [
+   -0.25719,
+   -0.05386,
+   0.96486
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.5,
+  "n_neurons": 264,
+  "slabs_used": 8,
+  "slab_range_um": [
+   -16.0,
+   16.0
+  ]
+ },
+ {
+  "ds": "FlyWire",
+  "bundle": "KC alpha/beta lobe R1",
+  "centroid": [
+   610.97,
+   155.335,
+   77.843
+  ],
+  "axis": [
+   0.32784,
+   0.5199,
+   0.78882
+  ],
+  "e1": [
+   -0.08367,
+   -0.8157,
+   0.57239
+  ],
+  "slab_um": 4.0,
+  "min_coverage": 0.5,
+  "n_neurons": 290,
+  "slabs_used": 5,
+  "slab_range_um": [
+   -16.0,
+   4.0
+  ]
+ }
+]

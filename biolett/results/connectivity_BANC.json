@@ -1,0 +1,306 @@
+{
+ "brain": {
+  "n_units": 14,
+  "log2ratio_n_in": {
+   "median": 1.7707858855869545,
+   "n_units": 14,
+   "n_positive": 12,
+   "sign_test_p": 0.012939453125
+  },
+  "auc_n_in": {
+   "median": 0.8263115721997301,
+   "n_units": 14,
+   "n_positive": 12,
+   "sign_test_p": 0.012939453125
+  },
+  "log2ratio_n_out": {
+   "median": 1.7376237214630934,
+   "n_units": 14,
+   "n_positive": 12,
+   "sign_test_p": 0.012939453125
+  },
+  "auc_n_out": {
+   "median": 0.810391363022942,
+   "n_units": 14,
+   "n_positive": 12,
+   "sign_test_p": 0.012939453125
+  },
+  "log2ratio_n_syn": {
+   "median": 1.7995646283480613,
+   "n_units": 14,
+   "n_positive": 12,
+   "sign_test_p": 0.012939453125
+  },
+  "auc_n_syn": {
+   "median": 0.8304143772893773,
+   "n_units": 14,
+   "n_positive": 12,
+   "sign_test_p": 0.012939453125
+  },
+  "log2ratio_size": {
+   "median": 1.1960019173861494,
+   "n_units": 14,
+   "n_positive": 14,
+   "sign_test_p": 0.0001220703125
+  },
+  "auc_size": {
+   "median": 0.9568205128205128,
+   "n_units": 14,
+   "n_positive": 14,
+   "sign_test_p": 0.0001220703125
+  },
+  "log2ratio_syn_per_size": {
+   "median": 0.19826859127548357,
+   "n_units": 14,
+   "n_positive": 12,
+   "sign_test_p": 0.012939453125
+  },
+  "auc_syn_per_size": {
+   "median": 0.7237228260869566,
+   "n_units": 14,
+   "n_positive": 12,
+   "sign_test_p": 0.012939453125
+  },
+  "diff_in_intrinsic": {
+   "median": 0.07853429736936368,
+   "n_units": 14,
+   "n_positive": 10,
+   "sign_test_p": 0.1795654296875
+  },
+  "diff_in_sensory": {
+   "median": -0.025592349338290334,
+   "n_units": 14,
+   "n_positive": 2,
+   "sign_test_p": 0.012939453125
+  },
+  "diff_in_ascending": {
+   "median": 0.006487417864820624,
+   "n_units": 14,
+   "n_positive": 8,
+   "sign_test_p": 0.79052734375
+  },
+  "diff_in_descending": {
+   "median": -0.001300873680707634,
+   "n_units": 14,
+   "n_positive": 6,
+   "sign_test_p": 0.79052734375
+  },
+  "diff_in_visual": {
+   "median": -0.00015727977412831266,
+   "n_units": 14,
+   "n_positive": 4,
+   "sign_test_p": 0.3876953125
+  },
+  "diff_in_motor/efferent": {
+   "median": 0.0003633228906092701,
+   "n_units": 14,
+   "n_positive": 8,
+   "sign_test_p": 0.3876953125
+  },
+  "diff_in_other": {
+   "median": 0.022852155080205855,
+   "n_units": 14,
+   "n_positive": 11,
+   "sign_test_p": 0.057373046875
+  },
+  "diff_out_intrinsic": {
+   "median": -0.011956245931459886,
+   "n_units": 14,
+   "n_positive": 5,
+   "sign_test_p": 0.4239501953125
+  },
+  "diff_out_sensory": {
+   "median": -0.0018132060785114484,
+   "n_units": 14,
+   "n_positive": 5,
+   "sign_test_p": 0.4239501953125
+  },
+  "diff_out_ascending": {
+   "median": -0.0020816227500012998,
+   "n_units": 14,
+   "n_positive": 6,
+   "sign_test_p": 0.79052734375
+  },
+  "diff_out_descending": {
+   "median": 0.006541224511603105,
+   "n_units": 14,
+   "n_positive": 8,
+   "sign_test_p": 0.79052734375
+  },
+  "diff_out_visual": {
+   "median": -3.7857542399760496e-05,
+   "n_units": 14,
+   "n_positive": 6,
+   "sign_test_p": 1.0
+  },
+  "diff_out_motor/efferent": {
+   "median": 0.01605999730113351,
+   "n_units": 14,
+   "n_positive": 10,
+   "sign_test_p": 0.03857421875
+  },
+  "diff_out_other": {
+   "median": -0.0008982370787341543,
+   "n_units": 14,
+   "n_positive": 7,
+   "sign_test_p": 1.0
+  },
+  "top5pct": {
+   "frac_primary_top": 0.5,
+   "frac_primary_all": 0.1777059773828756,
+   "n_top": 62
+  }
+ },
+ "vnc": {
+  "n_units": 109,
+  "log2ratio_n_in": {
+   "median": 2.625389012879831,
+   "n_units": 109,
+   "n_positive": 106,
+   "sign_test_p": 6.653856846264573e-28
+  },
+  "auc_n_in": {
+   "median": 0.9181818181818182,
+   "n_units": 109,
+   "n_positive": 108,
+   "sign_test_p": 3.389636702121535e-31
+  },
+  "log2ratio_n_out": {
+   "median": 2.3892981784799665,
+   "n_units": 109,
+   "n_positive": 93,
+   "sign_test_p": 2.2089187156338813e-14
+  },
+  "auc_n_out": {
+   "median": 0.8521634615384616,
+   "n_units": 109,
+   "n_positive": 93,
+   "sign_test_p": 6.404555406738943e-15
+  },
+  "log2ratio_n_syn": {
+   "median": 2.569945465080433,
+   "n_units": 109,
+   "n_positive": 107,
+   "sign_test_p": 1.8476601514473386e-29
+  },
+  "auc_n_syn": {
+   "median": 0.9206349206349206,
+   "n_units": 109,
+   "n_positive": 107,
+   "sign_test_p": 1.8476601514473386e-29
+  },
+  "log2ratio_size": {
+   "median": 1.851370418138035,
+   "n_units": 109,
+   "n_positive": 107,
+   "sign_test_p": 1.8476601514473386e-29
+  },
+  "auc_size": {
+   "median": 1.0,
+   "n_units": 109,
+   "n_positive": 108,
+   "sign_test_p": 3.389636702121535e-31
+  },
+  "log2ratio_syn_per_size": {
+   "median": 0.305453299002821,
+   "n_units": 109,
+   "n_positive": 106,
+   "sign_test_p": 6.653856846264573e-28
+  },
+  "auc_syn_per_size": {
+   "median": 0.8294243070362474,
+   "n_units": 109,
+   "n_positive": 105,
+   "sign_test_p": 1.2944899305885702e-27
+  },
+  "diff_in_intrinsic": {
+   "median": 0.022440316860839138,
+   "n_units": 109,
+   "n_positive": 60,
+   "sign_test_p": 0.33818541219666143
+  },
+  "diff_in_sensory": {
+   "median": -0.0004725527066996235,
+   "n_units": 109,
+   "n_positive": 54,
+   "sign_test_p": 1.0
+  },
+  "diff_in_ascending": {
+   "median": -0.004460294777745372,
+   "n_units": 109,
+   "n_positive": 48,
+   "sign_test_p": 0.2502820046919217
+  },
+  "diff_in_descending": {
+   "median": -0.012378796157439143,
+   "n_units": 109,
+   "n_positive": 48,
+   "sign_test_p": 0.2502820046919217
+  },
+  "diff_in_visual": {
+   "median": 0.0,
+   "n_units": 109,
+   "n_positive": 25,
+   "sign_test_p": 0.04703102743951604
+  },
+  "diff_in_motor/efferent": {
+   "median": -0.0001709368397699643,
+   "n_units": 109,
+   "n_positive": 45,
+   "sign_test_p": 0.08422157489669979
+  },
+  "diff_in_other": {
+   "median": -0.002105890874318256,
+   "n_units": 109,
+   "n_positive": 49,
+   "sign_test_p": 0.33818541219666143
+  },
+  "diff_out_intrinsic": {
+   "median": 0.03074629707890053,
+   "n_units": 109,
+   "n_positive": 60,
+   "sign_test_p": 0.33818541219666143
+  },
+  "diff_out_sensory": {
+   "median": 0.0011748962753573675,
+   "n_units": 109,
+   "n_positive": 59,
+   "sign_test_p": 0.44366950120234844
+  },
+  "diff_out_ascending": {
+   "median": -0.017155656163515522,
+   "n_units": 109,
+   "n_positive": 38,
+   "sign_test_p": 0.002033169531309131
+  },
+  "diff_out_descending": {
+   "median": 0.008948916925164604,
+   "n_units": 109,
+   "n_positive": 86,
+   "sign_test_p": 9.593063014050702e-10
+  },
+  "diff_out_visual": {
+   "median": 0.0,
+   "n_units": 109,
+   "n_positive": 35,
+   "sign_test_p": 0.14800580076020603
+  },
+  "diff_out_motor/efferent": {
+   "median": -5.4466159260333196e-05,
+   "n_units": 109,
+   "n_positive": 54,
+   "sign_test_p": 1.0
+  },
+  "diff_out_other": {
+   "median": 0.0070252543438112935,
+   "n_units": 109,
+   "n_positive": 64,
+   "sign_test_p": 0.08422157489669979
+  },
+  "top5pct": {
+   "frac_primary_top": 0.7746835443037975,
+   "frac_primary_all": 0.11381187492087606,
+   "n_top": 395
+  }
+ }
+}
